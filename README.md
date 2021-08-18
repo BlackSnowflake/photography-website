@@ -1,1 +1,1 @@
-# web-projects
+# photography-portfolio
